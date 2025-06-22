@@ -1,6 +1,6 @@
 baseURL: https://MXS9501.github.io
 
-languageCode: bn
+languageCode: en
 title: "Curriculum Vita of Mr. Jiahao Cui"
 
 # Use Hugo modules to add theme
@@ -23,7 +23,7 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "Curriculum Vita"
+    title: "Curriculum Vita of Mr. Jiahao Cui"
     weight: 1
   bn:
     languageCode: bn
