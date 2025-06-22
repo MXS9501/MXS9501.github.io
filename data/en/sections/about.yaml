@@ -41,8 +41,7 @@ socialLinks:
   url: "https://www.researchgate.net/profile/Jiahao-Cui?ev=hdr_xprf"
 
 - name: ORCID
-  icon: "fa-brands fa-orcid"  
-  style="color: #63E6BE"
+  icon: "fa-brands fa-orcid"
   url: "https://orcid.org/0000-0003-0559-8729"
 
 
@@ -58,6 +57,16 @@ resourceLinks:
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
+- type: soft-skill-indicator
+  name: Molecular Biology
+  percentage: 100
+  color: red
+
+- type: soft-skill-indicator
+  name: Molecular Biology
+  percentage: 100
+  color: red
+  
 - type: soft-skill-indicator
   name: Molecular Biology
   percentage: 100
