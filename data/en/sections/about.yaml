@@ -12,14 +12,14 @@ designation: Lab Technician
 # your company information
 company:
   name: xi'an jiaotong-liverpool university
-  url: "https://www.xjtlu.edu.cn/en/"
+  url: "https://www.xjtlu.edu.cn"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 resume: "files/resume.pdf"
 
 # a summary about you TEST WORD
-summary: 'Jiahao obtained his bachelor degree at Henan University (Henan,China) in 2017 and pursued his MRes research at XJTLU (Suchoow, China) and won his degree in 2020. He completed his undergraduate project at the National Key Laboratory, supervised by Prof. Shutang Zhou, focusing on the expression and purification of reproductive manipulation protein AGO1. Then he followed Dr. Ferdinand Kappes to carry out his scientific project about protein interaction function with DNA of ALYREF (THOC4). In January 2020, he joined XJTLU as a lab technician at the *Department of Biosciences and Bioinformatics*, assisting lab work with PIs, managing gas cylinders and liquid nitrogen tank, conducting Confocal Microscopy training (LSM880, Zeiss), also Jiaohao believes that a clean and organized laboratory can significantly enhance scientific research efficiency. He has written numerous new Standard Operating Procedures (SOPs) and standardized forms, bringing order to research and management.'
+summary: 'TEST'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
