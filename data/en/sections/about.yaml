@@ -30,6 +30,7 @@ socialLinks:
 
 - name: University
   icon: "fa-solid fa-building-columns"
+  color: "#63E6BE"
   url: "https://scholar.xjtlu.edu.cn/en/persons/jiahao-cui"
 
 - name: Google Scholar
@@ -49,6 +50,8 @@ socialLinks:
 # For example, you can put link for your resume.
 resourceLinks:
 - title: "My Resume"
+  url: "files/resume.pdf"
+- title: "TEST WORD"
   url: "files/resume.pdf"
 
 # Show your badges
