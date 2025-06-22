@@ -42,6 +42,7 @@ socialLinks:
 
 - name: ORCID
   icon: "fa-brands fa-orcid"
+  color: "#00adb5"
   url: "https://orcid.org/0000-0003-0559-8729"
 
 
@@ -66,7 +67,7 @@ badges:
   name: Molecular Biology
   percentage: 100
   color: red
-  
+
 - type: soft-skill-indicator
   name: Molecular Biology
   percentage: 100
@@ -74,17 +75,17 @@ badges:
 
 - type: soft-skill-indicator
   name: Leadership
-  percentage: 85
+  percentage: 100
   color: blue
 
 - type: soft-skill-indicator
   name: Team Work
-  percentage: 90
+  percentage: 100
   color: yellow
 
 - type: soft-skill-indicator
   name: Hard Working
-  percentage: 85
+  percentage: 100
   color: orange
 
 # you can also provide color code instead of the color name
