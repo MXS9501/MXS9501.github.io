@@ -11,7 +11,7 @@ section:
 designation: Lab Technician
 # your company information
 company:
-  name: xi'an jiaotong-liverpool university
+  name: Xi'an jiaotong-liverpool university
   url: "https://www.xjtlu.edu.cn"
 
 # your resume. this file path should be relative to you "static" directory
@@ -58,21 +58,6 @@ resourceLinks:
 # You can show your verifiable certificates from https://www.credly.com.
 # You can also show a circular bar indicating the level of expertise on a certain skill
 badges:
-- type: soft-skill-indicator
-  name: Molecular Biology
-  percentage: 100
-  color: red
-
-- type: soft-skill-indicator
-  name: Molecular Biology
-  percentage: 100
-  color: red
-
-- type: soft-skill-indicator
-  name: Molecular Biology
-  percentage: 100
-  color: red
-  
 - type: soft-skill-indicator
   name: Molecular Biology
   percentage: 100
