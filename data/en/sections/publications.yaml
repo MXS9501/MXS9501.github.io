@@ -26,12 +26,12 @@ publications:
   publishedIn:
     name: "The 31th International Annual ISBS “Stress and Behavior” Neuroscience and Biological Psychiatry Conference"
     date: "May 16-18, 2025"
-    url: https://example.com
+    url:
   authors:
-  - name: "Y Song, J Cui, H Cai, Y Zhang, Y Qin, Z Zhou, H Feng, S He, K He, Y Liu, J Wang, J Jiang, R Li, X Xie, M Zhou, S Monti, L Yang, AM Stewart, AV Kalueff."
+  - name: 
   paper:
-    summary: Voluptate in id id voluptate laboris. Minim mollit aliquip sit aliqua ut exercitation voluptate eiusmod consequat pariatur sunt enim veniam. Velit esse tempor laboris anim tempor officia. Magna non labore duis do esse sit do ipsum culpa. Officia consequat id non duis culpa dolor. Excepteur magna non nostrud cupidatat aute aliqua aliquip.
-    url: https://example.com
+    summary: "Y Song, J Cui, H Cai, Y Zhang, Y Qin, Z Zhou, H Feng, S He, K He, Y Liu, J Wang, J Jiang, R Li, X Xie, M Zhou, S Monti, L Yang, AM Stewart, AV Kalueff."
+    url:
   categories: ["conferenceabstracts"]
   tags: ["Conference Abstracts", "Neuroscience", "Zebrafish"]
 
