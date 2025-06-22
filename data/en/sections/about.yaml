@@ -28,34 +28,22 @@ socialLinks:
   icon: "fas fa-envelope"
   url: "example@gmail.com"
 
-- name: Github
-  icon: "fab fa-github"
-  url: "https://www.github.com/example"
+- name: University
+  icon: "fa-solid fa-building-columns"
+  url: "https://scholar.xjtlu.edu.cn/en/persons/jiahao-cui"
 
-- name: Stackoverflow
-  icon: "fab fa-stack-overflow"
-  url: "#"
-
-- name: LinkedIn
-  icon: "fab fa-linkedin"
-  url: "#"
-
-- name: Twitter
-  icon: "fab fa-twitter"
-  url: "#"
-
-- name: Facebook
-  icon: "fab fa-facebook"
-  url: "#"
-
-- name: Mastadon
-  icon: "fab fa-mastodon"
-  url: "#"
-  rel: "me noopener"
+- name: Google Scholar
+  icon: "fa-brands fa-google-scholar"
+  url: "https://scholar.google.com/citations?user=tcz3BjwAAAAJ&hl=en"
 
 - name: ResearchGate
-  icon: "fab fa-researchgate"
-  url: "https://www.researchgate.net/profile/john-doe"
+  icon: "fa-brands fa-researchgate"
+  url: "https://www.researchgate.net/profile/Jiahao-Cui?ev=hdr_xprf"
+
+- name: ORCID
+  icon: "fa-brands fa-orcid"  
+  url: "https://orcid.org/0000-0003-0559-8729"
+
 
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
