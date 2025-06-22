@@ -28,9 +28,9 @@ publications:
     date: "May 16-18, 2025"
     url:
   authors:
-  - name: 
+  - name: "Y Song,**Jiahao Cui**, H Cai, Y Zhang, Y Qin, Z Zhou, H Feng, S He, K He, Y Liu, J Wang, J Jiang, R Li, X Xie, M Zhou, S Monti, L Yang, AM Stewart, AV Kalueff."
   paper:
-    summary: "Y Song, J Cui, H Cai, Y Zhang, Y Qin, Z Zhou, H Feng, S He, K He, Y Liu, J Wang, J Jiang, R Li, X Xie, M Zhou, S Monti, L Yang, AM Stewart, AV Kalueff."
+    summary: 
     url:
   categories: ["conferenceabstracts"]
   tags: ["Conference Abstracts", "Neuroscience", "Zebrafish"]
