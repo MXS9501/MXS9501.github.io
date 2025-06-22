@@ -22,16 +22,132 @@ buttons:
 # your publications
 publications:
 
-- title: ASESSING NEUROBIOLOGICAL CONSECUENCES OF OIL SPILL EXPOSURE IN ADULT ZEBRAFISH.
+- title: "IT’S NOT WHAT YOU SEE: ‘ATYPICAL’ TOP PREFERENCE IN THE NOVEL TANK TEST IN ADULT ZEBRAFISH IS NOT ANXIOLYTIC, BUT EVOKED BY TWO SEVERE SURVIVAL STRESSORS."
   publishedIn:
     name: "The 31th International Annual ISBS “Stress and Behavior” Neuroscience and Biological Psychiatry Conference"
     date: "May 16-18, 2025"
     url:
   authors:
-  - name: 'Y Song, **Jiahao Cui**, H Cai, Y Zhang, Y Qin, Z Zhou, H Feng, S He, K He, Y Liu, J Wang, J Jiang, R Li, X Xie, M Zhou, S Monti, L Yang, AM Stewart, AV Kalueff.'
+  - name: "Y Song, JIAHAO CUI, H Cai, Y Zhang, Y Qin, Z Zhou, H Feng, S He, K He, Y Liu, J Wang, J Jiang, R Li, X Xie, M Zhou, S Monti, L Yang, AM Stewart, AV Kalueff."
   paper:
     summary: 
     url:
   categories: ["conferenceabstracts"]
   tags: ["Conference Abstracts", "Neuroscience", "Zebrafish"]
 
+- title: ASESSING NEUROBIOLOGICAL CONSECUENCES OF OIL SPILL EXPOSURE IN ADULT ZEBRAFISH.
+  publishedIn:
+    name: "The 31th International Annual ISBS “Stress and Behavior” Neuroscience and Biological Psychiatry Conference"
+    date: "May 16-18, 2025"
+    url:
+  authors:
+  - name: "Y Zhang, L Yang, Y Bai, M Zhou, X Xie, V Perfilova, S He, H Cai, J Jiang, J Wang, Z Zhou, S Monti, M Rodrigues de la Cruz, K He, Y Jia, Y Song, JIAHAO CUI, Y Liu, H Feng, AV Kalueff"
+  paper:
+    summary: 
+    url:
+  categories: ["conferenceabstracts"]
+  tags: ["Conference Abstracts", "Neuroscience", "Zebrafish"]
+
+- title: EFFECTS OF MINOCYCLINE IN NEUROBEHAVIORAL MODELS IN ZEBRAFISH.
+  publishedIn:
+    name: "The 31th International Annual ISBS “Stress and Behavior” Neuroscience and Biological Psychiatry Conference"
+    date: "May 16-18, 2025"
+    url:
+  authors:
+  - name: "L Yang, X Xie, M Zhou, Y Bai, H Cai, Y Zhang, S He, J Jiang, J Wang, Z Zhou, S Monti, M Rodrigues de la Cruz, K He, Y Jia, Y Song, Y Liu, H Feng, JIAHAO CUI, AV Kalueff"
+  paper:
+    summary: 
+    url:
+  categories: ["conferenceabstracts"]
+  tags: ["Conference Abstracts", "Neuroscience", "Zebrafish"]
+
+- title: STUDYING ORAL DYSKENESIAS USING AI IN ZEBRAFISH.
+  publishedIn:
+    name: "The 31th International Annual ISBS “Stress and Behavior” Neuroscience and Biological Psychiatry Conference"
+    date: "May 16-18, 2025"
+    url:
+  authors:
+  - name: "S He, G Wang, L Yang, Y Bai, H Cai, M Zhou, Y Zhang, X Xie, J Jiang, J Wang, Z Zhou, S Monti, M Rodrigues de la Cruz, K He, Y Jia, Y Song, Y Liu, H Feng, JIAHAO CUI, AV Kalueff"
+  paper:
+    summary: 
+    url:
+  categories: ["conferenceabstracts"]
+  tags: ["Conference Abstracts", "Neuroscience", "Zebrafish"]
+
+- title: SOCIAL PSYCHOPHARMACOLOGY IN ZEBRAFISH. 
+  publishedIn:
+    name: "The 31th International Annual ISBS “Stress and Behavior” Neuroscience and Biological Psychiatry Conference"
+    date: "May 16-18, 2025"
+    url:
+  authors:
+  - name: "AV Kalueff, VN Perfilova, L Yang, M Zhou, Y Bai, S He, X Xie, H Cai, Y Zhang, J Jiang, J Wang, Z Zhou, S Monti, M Rodrigues de la Cruz, K He, Y Jia, Y Song, Y Liu, H Feng, C Zhao, JIAHAO CUI, AM Stewart"
+  paper:
+    summary: 
+    url:
+  categories: ["conferenceabstracts"]
+  tags: ["Conference Abstracts", "Neuroscience", "Zebrafish"]
+
+- title: Zebrafish models relevant to complex human brain disorders
+  publishedIn:
+    name: "2024 Russian-Chinese Life Sciences Congresse"
+    date: "Oct 29-Nov 2, 2024"
+    url: https://www.postgenome.org/
+  authors:
+  - name: "AV Kaluev (Kalueff), TG Amstislavskaya, L Yang, JIAHAO CUI, Yu Zhang, Ya Lin, C Zhao, J Wang, J Jiang, V Bley, H Cai, K He, Sh He, Y Qin, H Feng, Yu Liu, R Li, Ch Wang"
+  paper:
+    summary: 
+    url:
+  categories: ["conferenceabstracts"]
+  tags: ["Conference Abstracts", "Neuroscience", "Zebrafish"]
+
+- title: THE ZEBRAFISH VERTICAL 100-500-ML CYLINDER TEST AS A SIMPLE AND FAST METHOD FOR MEASURING FISH STRESS AND ANXIETY
+  publishedIn:
+    name: "XJTLU-XJTU-UoL Joint Symposium on Life Sciences"
+    date: ""
+    url:
+  authors:
+  - name: "L Yang, Y Zhang, Y Lin, C Zhao, Y Qin, JIAHAO CUI, AV Kaluev"
+  paper:
+    summary: 
+    url:
+  categories: ["conferenceabstracts"]
+  tags: ["Conference Abstracts", "Neuroscience", "Zebrafish"]
+
+- title: Frontiers in zebrafish CNS physiology research:from molecules to complex brain disorders
+  publishedIn:
+    name: "Chinese Neuroscience Society meeting 2024"
+    date: "Sept 26-29, 2024"
+    url:
+  authors:
+  - name: "Alan V Kaluev (Kalueff)*, Longen Yang*, JIAHAO CUI, Danil Lukovikov"
+  paper:
+    summary: 
+    url:
+  categories: ["conferenceabstracts"]
+  tags: ["Conference Abstracts", "Neuroscience", "Zebrafish"]
+
+- title: Welcoming remarks on zebrafish CNS physiology and symposium introduction
+  publishedIn:
+    name: "2024 ICPS International Conference of Physiological Sciences, China"
+    date: "Aug 23, 2024"
+    url:
+  authors:
+  - name: "Alan V KALUEV (KALUEFF)1*, Longen YANG1, JIAHAO CUI, Yunqian ZHANG, Yaxuan LIN, Chongguang ZHAO, Jiyi WANG, Jiayou JIANG, Vea BLEY"
+  paper:
+    summary: 
+    url:
+  categories: ["conferenceabstracts"]
+  tags: ["Conference Abstracts", "Neuroscience", "Zebrafish"]
+
+- title: THE NARROW 5-ML VERTICAL CYLINDER TEST AS A POTENTIAL RAPID ASSAY FOR ZEBRAFISH STRESS-EVOKED ‘DESPAIR’-LIKE BEHAVIOR. 
+  publishedIn:
+    name: "30th Jubilee International Stress and Behavior Society Conference, Yerevan, Armenia"
+    date: "May 16-19, 2024"
+    url:
+  authors:
+  - name: "L Yang, Y Zhang, Y Lin, C Zhao, Y Qin, JIAHAO CUI, AV Kaluev"
+  paper:
+    summary: 
+    url:
+  categories: ["conferenceabstracts"]
+  tags: ["Conference Abstracts", "Neuroscience", "Zebrafish"]
