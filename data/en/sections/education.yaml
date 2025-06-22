@@ -17,7 +17,7 @@ degrees:
   institution:
     name: Xi'an jiaotong-liverpool university
     url: "https://www.xjtlu.edu.cn"
-    logo: /images/sections/education/XJTLU.png
+    logo: /images/sections/education/mres.png
   customSections: #(optional)
     - name: Thesis
       content: Exploration and Mutational Analysis of the DNA-binding Domains of mRNA Transport Factor ALYREF
@@ -30,7 +30,7 @@ degrees:
   institution:
     name: Xi'an jiaotong-liverpool university
     url: "https://www.xjtlu.edu.cn"
-    logo: /images/sections/education/XJTLU.png
+    logo: /images/sections/education/mres.png
   extracurricularActivities: #(optional)
   - Teaching Assistant for the module BIO107
   customSections: #(optional)
@@ -45,7 +45,7 @@ degrees:
   institution:
     name: Henan University
     url: "https://www.henu.edu.cn/xxgk/hdgk"
-    logo: /images/sections/education/XJTLU.png
+    logo: /images/sections/education/beng.png
   extracurricularActivities: #(optional)
   - TEST WORD
   customSections: #(optional)
