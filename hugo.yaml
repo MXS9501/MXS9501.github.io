@@ -1,7 +1,7 @@
 baseURL: https://MXS9501.github.io
 
 languageCode: bn
-title: "John's Blog"
+title: "Curriculum Vita of Mr. Jiahao Cui"
 
 # Use Hugo modules to add theme
 module:
@@ -23,7 +23,7 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
+    title: "Curriculum Vita"
     weight: 1
   bn:
     languageCode: bn
@@ -58,7 +58,8 @@ enableEmoji: true
 # Site parameters
 params:
   # Background image of the landing page
-  background: /images/site/background.jpg
+  background: /images/site/Background1.jpg
+  
   # Background image of the landing page for dark theme
   #darkBackground: /images/site/background.jpg
 
