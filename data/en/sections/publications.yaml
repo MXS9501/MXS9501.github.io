@@ -12,16 +12,27 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: "Machine Learning"
-  filter: "machinelearning"
-- name: "Image Processing"
-  filter: "image-processing"
-- name: Security
-  filter: "security"
+- name: "Articles"
+  filter: "articles"
+- name: "Abstract"
+  filter: "conferenceabstracts"
 
 # your publications
 publications:
-
+# 11 ##################################################################
+- title: "Developing zebrafish models for the study of Wnt-related central nervous system pathologies"
+  publishedIn:
+    name: "Neuroscience"
+    date: "23 July, 2025"
+    url:
+  authors:
+  - name: "Natalia Erofeeva, Murilo S de Abreu, JIAHAO CUI, Lee Wei Lim, Longen Yang, Allan V Kalueff."
+  paper:
+    summary: 
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0306452225006827
+  categories: ["articles"]
+  tags: ["Articles", "Neuroscience", "Zebrafish"]
+# 10 ##################################################################
 - title: "IT’S NOT WHAT YOU SEE: ‘ATYPICAL’ TOP PREFERENCE IN THE NOVEL TANK TEST IN ADULT ZEBRAFISH IS NOT ANXIOLYTIC, BUT EVOKED BY TWO SEVERE SURVIVAL STRESSORS."
   publishedIn:
     name: "The 31th International Annual ISBS “Stress and Behavior” Neuroscience and Biological Psychiatry Conference"
@@ -34,7 +45,7 @@ publications:
     url:
   categories: ["conferenceabstracts"]
   tags: ["Conference Abstracts", "Neuroscience", "Zebrafish"]
-
+# 9 ##################################################################
 - title: ASESSING NEUROBIOLOGICAL CONSECUENCES OF OIL SPILL EXPOSURE IN ADULT ZEBRAFISH.
   publishedIn:
     name: "The 31th International Annual ISBS “Stress and Behavior” Neuroscience and Biological Psychiatry Conference"
@@ -47,7 +58,7 @@ publications:
     url:
   categories: ["conferenceabstracts"]
   tags: ["Conference Abstracts", "Neuroscience", "Zebrafish"]
-
+# 8 ##################################################################
 - title: EFFECTS OF MINOCYCLINE IN NEUROBEHAVIORAL MODELS IN ZEBRAFISH.
   publishedIn:
     name: "The 31th International Annual ISBS “Stress and Behavior” Neuroscience and Biological Psychiatry Conference"
@@ -60,7 +71,7 @@ publications:
     url:
   categories: ["conferenceabstracts"]
   tags: ["Conference Abstracts", "Neuroscience", "Zebrafish"]
-
+# 7 ##################################################################
 - title: STUDYING ORAL DYSKENESIAS USING AI IN ZEBRAFISH.
   publishedIn:
     name: "The 31th International Annual ISBS “Stress and Behavior” Neuroscience and Biological Psychiatry Conference"
@@ -73,7 +84,7 @@ publications:
     url:
   categories: ["conferenceabstracts"]
   tags: ["Conference Abstracts", "Neuroscience", "Zebrafish"]
-
+# 6 ##################################################################
 - title: SOCIAL PSYCHOPHARMACOLOGY IN ZEBRAFISH. 
   publishedIn:
     name: "The 31th International Annual ISBS “Stress and Behavior” Neuroscience and Biological Psychiatry Conference"
@@ -86,7 +97,7 @@ publications:
     url:
   categories: ["conferenceabstracts"]
   tags: ["Conference Abstracts", "Neuroscience", "Zebrafish"]
-
+# 5 ##################################################################
 - title: Zebrafish models relevant to complex human brain disorders
   publishedIn:
     name: "2024 Russian-Chinese Life Sciences Congresse"
@@ -99,7 +110,7 @@ publications:
     url:
   categories: ["conferenceabstracts"]
   tags: ["Conference Abstracts", "Neuroscience", "Zebrafish"]
-
+# 4 ##################################################################
 - title: THE ZEBRAFISH VERTICAL 100-500-ML CYLINDER TEST AS A SIMPLE AND FAST METHOD FOR MEASURING FISH STRESS AND ANXIETY
   publishedIn:
     name: "XJTLU-XJTU-UoL Joint Symposium on Life Sciences"
@@ -112,7 +123,7 @@ publications:
     url:
   categories: ["conferenceabstracts"]
   tags: ["Conference Abstracts", "Neuroscience", "Zebrafish"]
-
+# 3 ##################################################################
 - title: Frontiers in zebrafish CNS physiology research:from molecules to complex brain disorders
   publishedIn:
     name: "Chinese Neuroscience Society meeting 2024"
@@ -125,7 +136,7 @@ publications:
     url:
   categories: ["conferenceabstracts"]
   tags: ["Conference Abstracts", "Neuroscience", "Zebrafish"]
-
+# 2 ##################################################################
 - title: Welcoming remarks on zebrafish CNS physiology and symposium introduction
   publishedIn:
     name: "2024 ICPS International Conference of Physiological Sciences, China"
@@ -138,7 +149,7 @@ publications:
     url:
   categories: ["conferenceabstracts"]
   tags: ["Conference Abstracts", "Neuroscience", "Zebrafish"]
-
+# 1 ##################################################################
 - title: THE NARROW 5-ML VERTICAL CYLINDER TEST AS A POTENTIAL RAPID ASSAY FOR ZEBRAFISH STRESS-EVOKED ‘DESPAIR’-LIKE BEHAVIOR. 
   publishedIn:
     name: "30th Jubilee International Stress and Behavior Society Conference, Yerevan, Armenia"
