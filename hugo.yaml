@@ -25,7 +25,7 @@ languages:
     languageName: English
     title: "Curriculum Vita of Mr. Jiahao Cui"
     weight: 1
-# default language for the content
+# default language for the content test
 defaultContentLanguage: en
 
 
