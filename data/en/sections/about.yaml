@@ -72,6 +72,21 @@ badges:
   name: Molecular Biology
   percentage: 100
   color: red
+  
+- type: soft-skill-indicator
+  name: Molecular Biology
+  percentage: 100
+  color: red
+
+- type: soft-skill-indicator
+  name: Molecular Biology
+  percentage: 100
+  color: red
+
+- type: soft-skill-indicator
+  name: Molecular Biology
+  percentage: 100
+  color: red
 
 - type: soft-skill-indicator
   name: Leadership
