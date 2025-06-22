@@ -30,7 +30,6 @@ socialLinks:
 
 - name: University
   icon: "fa-solid fa-building-columns"
-  color: "#63E6BE"
   url: "https://scholar.xjtlu.edu.cn/en/persons/jiahao-cui"
 
 - name: Google Scholar
@@ -43,6 +42,7 @@ socialLinks:
 
 - name: ORCID
   icon: "fa-brands fa-orcid"  
+  style="color: #63E6BE"
   url: "https://orcid.org/0000-0003-0559-8729"
 
 
